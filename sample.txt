@@ -1,0 +1,9 @@
+Microservices architecture allows applications to be divided into small independent services.
+
+Advantages:
+- Scalability
+- Independent deployment
+
+Disadvantages:
+- Complexity
+- Network latency
