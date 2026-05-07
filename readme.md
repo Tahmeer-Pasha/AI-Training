@@ -1,4 +1,4 @@
-# AI Learning Journey – From Theory to Production
+# AI Learning Journey
 
 ## 🚀 Overview
 This repository documents a comprehensive learning journey through modern AI and NLP techniques, culminating in a production-ready **Resume Shortlisting System with RAG**. The project demonstrates the evolution from basic LLM experiments to building practical AI solutions for real-world problems.
@@ -243,46 +243,3 @@ This project demonstrates mastery of key AI/ML concepts:
 - **User Experience**: Designing intuitive interfaces for non-technical users
 
 ---
-
-## 🔮 Future Applications
-
-The techniques learned in this project are applicable to many domains:
-
-### Immediate Extensions
-- **Document Classification**: Categorizing legal documents, research papers
-- **Content Recommendation**: Matching articles to reader preferences
-- **Customer Support**: Automated ticket routing and response suggestions
-- **Knowledge Management**: Intelligent search across corporate documents
-
-### Advanced Applications
-- **Multi-modal Analysis**: Combining text with images and structured data
-- **Real-time Processing**: Streaming document analysis
-- **Personalization**: Adaptive algorithms based on user feedback
-- **Integration**: APIs for existing business systems
-
----
-
-## 🤝 Project Impact
-
-This capstone project demonstrates:
-
-### Business Value
-- **Efficiency Gains**: 10x faster than manual resume screening
-- **Intelligence Enhancement**: AI provides human-like reasoning and insights
-- **Cost Reduction**: Significant savings in HR processing time
-- **Quality Improvement**: 90%+ accuracy with detailed explanations
-- **Scalability**: Handle large recruitment campaigns with intelligent analysis
-- **Future-Ready**: Demonstrates transition from traditional to agentic AI
-
-### Technical Achievement
-- **RAG Implementation**: True retrieval-augmented generation in production
-- **Agentic Architecture**: Intelligent system that reasons and explains decisions
-- **Hybrid Intelligence**: Seamless integration of traditional NLP and modern LLM
-- **Production Quality**: Robust system with graceful LLM fallback
-- **Best Practices**: Professional software development standards
-- **Innovation**: Cutting-edge combination of classical and agentic AI techniques
-- **Extensibility**: Architecture designed for future AI enhancements
-
----
-
-**This project represents the culmination of intensive study in AI/ML, demonstrating both theoretical understanding and practical implementation skills essential for modern software development.**
