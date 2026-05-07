@@ -1,0 +1,35 @@
+
+Name: Mohammed Faizan
+Email: faizan.dev@gmail.com
+Phone: 9445566778
+Location: Bangalore
+Experience: 3 Years
+
+SUMMARY
+Experienced Java Developer specializing in backend systems and cloud-native applications.
+
+SKILLS
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- Docker
+- Kubernetes
+- AWS
+- Git
+- RabbitMQ
+
+EXPERIENCE
+Backend Engineer - Vertex Digital
+2023 - Present
+- Developed cloud-native APIs.
+- Managed Docker and Kubernetes deployments.
+- Implemented messaging using RabbitMQ.
+
+Software Engineer - BrightCode
+2022 - 2023
+- Built Java backend modules.
+- Improved database efficiency.
+
+EDUCATION
+B.E in Computer Science

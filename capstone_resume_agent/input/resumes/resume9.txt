@@ -1,0 +1,55 @@
+
+Name: Rahul Nair
+Email: rahul.nair@gmail.com
+Phone: 9887766554
+Location: Kochi
+Experience: 5 Years
+
+SUMMARY
+UI/UX Designer with experience in graphic design and frontend prototyping.
+
+SKILLS
+- Figma
+- Adobe XD
+- Photoshop
+- HTML
+- CSS
+
+EXPERIENCE
+UI Designer - Creative Pixels
+2021 - Present
+- Designed application interfaces.
+- Conducted user research.
+
+EDUCATION
+Bachelor of Design
+
+====================================================
+RESUME 10 - BORDERLINE MATCH (MAYBE REJECTED)
+====================================================
+
+Name: Vivek Joshi
+Email: vivek.joshi@gmail.com
+Phone: 9776655443
+Location: Mumbai
+Experience: 2 Years
+
+SUMMARY
+Software Developer with experience in Java and desktop applications.
+
+SKILLS
+- Java
+- Swing
+- JDBC
+- Oracle DB
+- Git
+
+EXPERIENCE
+Software Developer - Legacy Systems Pvt Ltd
+2023 - Present
+- Developed desktop applications using Java Swing.
+- Worked with Oracle database.
+- Maintained internal tools.
+
+EDUCATION
+B.Sc Computer Science

@@ -1,0 +1,24 @@
+Name: Neha Verma
+Email: neha.verma@gmail.com
+Phone: 9000011111
+Location: Delhi
+Experience: 1 Year
+
+SUMMARY
+Python Developer interested in backend systems.
+
+SKILLS
+- Python
+- Django
+- MongoDB
+- Flask
+- Git
+
+EXPERIENCE
+Python Developer Intern - AI Soft Labs
+2025 - Present
+- Built APIs using Flask.
+- Worked on MongoDB integration.
+
+EDUCATION
+B.Tech in Computer Science

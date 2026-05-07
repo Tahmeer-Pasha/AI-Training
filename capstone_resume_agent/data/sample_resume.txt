@@ -1,0 +1,14 @@
+John Doe
+Software Engineer with 6+ years building scalable web applications, APIs, and automation workflows.
+
+Experience
+- Developed customer-facing web applications using Python, Flask, and React.
+- Designed and deployed microservices to AWS ECS with Docker, reducing deployment lead time by 40%.
+- Automated ETL pipelines in Python to integrate analytics data from multiple systems.
+- Collaborated with cross-functional teams to define engineering requirements and deliver customer solutions.
+
+Skills
+- Python, SQL, REST APIs, Docker, AWS, Git, Agile, mentoring junior engineers.
+
+Education
+- B.S. in Computer Science

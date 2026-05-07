@@ -1,0 +1,103 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+.env/
+.venv/
+env/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Test / Coverage
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Output Files
+# =========================
+output/
+results/
+reports/
+
+# =========================
+# Vector DB / Embeddings
+# =========================
+chroma_db/
+faiss_index/
+vector_store/
+embeddings/
+
+# =========================
+# Ollama / Model Cache
+# =========================
+models/
+*.bin
+*.gguf
+
+# =========================
+# Temporary Files
+# =========================
+temp/
+tmp/
+*.tmp
+
+# =========================
+# Runtime Databases
+# =========================
+*.sqlite3
+*.db
+
+# =========================
+# PDF / Resume Upload Cache
+# =========================
+uploads/
+parsed_resumes/
+
+# =========================
+# Mac/Linux hidden files
+# =========================
+*.swp
+*.swo

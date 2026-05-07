@@ -1,0 +1,15 @@
+We are hiring a Senior Backend Engineer to own Python-based microservices and API development for our cloud platform. The ideal candidate will have strong experience with AWS, Docker, Kubernetes, REST APIs, and system reliability.
+
+Responsibilities
+- Build and maintain backend microservices.
+- Collaborate on architecture and CI/CD pipelines.
+- Ensure system performance and resiliency.
+- Mentor junior engineers and participate in agile ceremonies.
+
+Required skills
+- Python
+- AWS
+- Kubernetes or Docker
+- Microservices
+- REST APIs
+- Team collaboration

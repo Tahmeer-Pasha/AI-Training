@@ -1,0 +1,26 @@
+Name: Rohit Kumar
+Email: rohit.kumar@gmail.com
+Phone: 9988776655
+Location: Chennai
+Experience: 1.5 Years
+
+SUMMARY
+Java Developer with experience in backend development and SQL databases.
+
+SKILLS
+- Java
+- Spring MVC
+- MySQL
+- Git
+- HTML
+- CSS
+
+EXPERIENCE
+Associate Software Engineer - InnovateTech
+2024 - Present
+- Worked on Java backend modules.
+- Created APIs for internal systems.
+- Maintained database queries.
+
+EDUCATION
+B.Tech in IT

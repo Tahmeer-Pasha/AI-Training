@@ -1,0 +1,29 @@
+
+Name: Aditi Rao
+Email: aditi.rao@gmail.com
+Phone: 9556677889
+Location: Mysore
+Experience: Fresher
+
+SUMMARY
+Recent graduate with internship experience in Java and Spring Boot.
+
+SKILLS
+- Java
+- Spring Boot
+- MySQL
+- Git
+- REST APIs
+
+EXPERIENCE
+Java Intern - SoftGrid Solutions
+2025
+- Assisted in API development.
+- Fixed backend bugs.
+- Worked on SQL queries.
+
+PROJECTS
+- Built employee management system using Spring Boot.
+
+EDUCATION
+B.Tech in Computer Science

@@ -1,0 +1,36 @@
+Name: Sana Khan
+Email: sana.khan@gmail.com
+Phone: 9011223344
+Location: Pune
+Experience: 4 Years
+
+SUMMARY
+Senior Java Backend Developer with expertise in Spring Boot, Microservices, Kafka, and AWS.
+
+SKILLS
+- Java
+- Spring Boot
+- Microservices
+- Kafka
+- PostgreSQL
+- Redis
+- Docker
+- AWS
+- CI/CD
+- Git
+
+EXPERIENCE
+Senior Java Developer - DeltaStack
+2022 - Present
+- Designed scalable microservices.
+- Integrated Redis caching.
+- Managed deployments on AWS.
+- Improved API performance by 40%.
+
+Java Developer - CoreLogic Systems
+2020 - 2022
+- Developed enterprise APIs.
+- Worked with PostgreSQL.
+
+EDUCATION
+B.Tech in Computer Science

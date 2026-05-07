@@ -1,0 +1,37 @@
+Name: Arjun Mehta
+Email: arjun.mehta@gmail.com
+Phone: 9876543210
+Location: Bangalore
+Experience: 3 Years
+
+SUMMARY
+Backend Java Developer with 3 years of experience building scalable microservices using Java and Spring Boot.
+
+SKILLS
+- Java
+- Spring Boot
+- REST APIs
+- Microservices
+- MySQL
+- PostgreSQL
+- Docker
+- AWS
+- Git
+- Kafka
+
+EXPERIENCE
+Software Engineer - TechNova Solutions
+2023 - Present
+- Developed REST APIs using Spring Boot.
+- Worked on microservices architecture.
+- Integrated Kafka for event-driven communication.
+- Deployed applications using Docker and AWS.
+
+Junior Java Developer - ByteCraft
+2022 - 2023
+- Built backend modules using Java.
+- Optimized SQL queries.
+- Worked with Git and CI/CD.
+
+EDUCATION
+B.Tech in Computer Science

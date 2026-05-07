@@ -1,0 +1,32 @@
+Name: Priya Sharma
+Email: priya.sharma@gmail.com
+Phone: 9123456780
+Location: Hyderabad
+Experience: 2 Years
+
+SUMMARY
+Java Developer experienced in Spring Boot and API development.
+
+SKILLS
+- Java
+- Spring Boot
+- REST API
+- MySQL
+- Git
+- Docker
+- JWT Authentication
+
+EXPERIENCE
+Java Developer - CloudSync Pvt Ltd
+2024 - Present
+- Developed backend APIs using Spring Boot.
+- Implemented JWT authentication.
+- Worked on Docker containerization.
+
+Software Engineer Intern - NexByte
+2023 - 2024
+- Assisted in backend development.
+- Fixed bugs and improved performance.
+
+EDUCATION
+B.E in Information Science

@@ -1,0 +1,27 @@
+
+Name: Karthik Reddy
+Email: karthik.reddy@gmail.com
+Phone: 9090909090
+Location: Bangalore
+Experience: 2 Years
+
+SUMMARY
+Frontend-focused developer with some backend Java knowledge.
+
+SKILLS
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Java Basics
+- MySQL
+
+EXPERIENCE
+Frontend Developer - PixelWave
+2023 - Present
+- Developed responsive user interfaces.
+- Worked with React.js.
+- Collaborated with backend team.
+
+EDUCATION
+BCA

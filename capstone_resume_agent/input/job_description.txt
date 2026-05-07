@@ -1,0 +1,39 @@
+====================================================
+COMPANY: Webknot Technologies
+ROLE: Java Developer
+LOCATION: Bangalore, India
+EXPERIENCE: 1 - 4 Years
+EMPLOYMENT TYPE: Full Time
+====================================================
+
+ABOUT THE ROLE
+Webknot Technologies is looking for a Java Developer who is passionate about backend development, scalable systems, and modern web technologies. The candidate will work with cross-functional teams to build APIs, microservices, and enterprise-grade applications.
+
+RESPONSIBILITIES
+- Develop and maintain backend services using Java and Spring Boot.
+- Build REST APIs and microservices.
+- Work with databases such as MySQL or PostgreSQL.
+- Write clean, scalable, and maintainable code.
+- Collaborate with frontend and DevOps teams.
+- Participate in code reviews and debugging.
+- Work with Git and CI/CD pipelines.
+- Optimize application performance and scalability.
+
+REQUIRED SKILLS
+- Strong knowledge of Java.
+- Experience with Spring Boot.
+- Understanding of REST APIs.
+- Knowledge of SQL databases.
+- Familiarity with Git.
+- Understanding of OOP concepts.
+- Basic understanding of Docker or cloud deployment.
+
+PREFERRED SKILLS
+- Knowledge of Microservices.
+- Experience with Kafka or RabbitMQ.
+- Familiarity with AWS.
+- Understanding of Redis.
+- Experience with JWT authentication.
+
+EDUCATION
+Bachelor's degree in Computer Science, Information Technology, or related field.
